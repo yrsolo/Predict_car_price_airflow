@@ -67,7 +67,7 @@ def create_features(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def pipeline() -> None:
-    train_filename = os.path.join(model_path, os.listdir(model_path)[-1])
+    train_filename = os.path.join(train_path, os.listdir(train_path)[-1])
     df = pd.read_csv(train_filename)
 
     X = df.drop('price_category', axis=1)
