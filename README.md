@@ -1,4 +1,6 @@
 **Car price predictor**
+![image](https://user-images.githubusercontent.com/26492458/174909569-ac4d0a20-73d5-46cd-909b-8ad52bd252a7.png)
+
 
 
 ## run
