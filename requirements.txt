@@ -1,0 +1,9 @@
+numpy
+pandas
+dill
+fastapi
+uvicorn
+pydantic
+requests
+scikit-learn
+psutil
